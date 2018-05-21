@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Crimson Text', serif;
+
+}
+
+section {
+  width:100%;
+  height:1000px;
+  float:left;
+}
+
+#Page1 {
+background-color:#5DD694;
+
+}
+#Page2 {
+background-color:#52B8E5;
+}
+#Page3 {
+background-color:#6671E3;
+}
+#Page4 {
+background-color:#A361C0;
+}
+#Page5 {
+background-color:#DA6880;
+}
+
+slide-section {
+
+}

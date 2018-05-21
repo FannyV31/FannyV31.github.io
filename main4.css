@@ -1,0 +1,87 @@
+* {
+box-sizing: border-box;
+text-decoration: none;
+list-style-type:none;
+}
+
+
+body {
+margin:0;
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.container4 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+}
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+/* Top right text */
+.top-right4 {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centered4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Crimson Text', serif;
+
+}
+
+section {
+  width:100%;
+  height:1000px;
+  float:left;
+}
+
+#Page1 {
+
+
+}
+#Page2 {
+
+}
+#Page3 {
+
+}
+#Page4 {
+
+}
+#Page5 {
+
+}
+
+slide-section {
+
+}
